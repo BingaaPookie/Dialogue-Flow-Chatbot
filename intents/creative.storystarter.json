@@ -1,0 +1,40 @@
+{
+  "id": "c8ac1844-bfcb-418f-936b-19c799a54228",
+  "name": "creative.storystarter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "story-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here's one: a lighthouse keeper finds a letter in a bottle addressed to someone who hasn't been born yet.",
+            "Try this: two strangers keep having the same dream, and in it they're trying to warn each other about something.",
+            "How about: a city where it's illegal to lie, and one person just discovered they physically can't stop.",
+            "Here you go: someone inherits a bookshop where every book is unfinished — and the ending depends on the reader.",
+            "Try this on: a kid finds a door in their grandmother's attic that opens into last Tuesday.",
+            "One for you: a translator realizes she's the only person alive who still understands a dying language — and it's trying to tell her something."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

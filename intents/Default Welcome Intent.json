@@ -1,0 +1,38 @@
+{
+  "id": "bed6619e-9d35-4b03-ba56-0d454884681e",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hey! I'm Quill — think of me as your scrappy little writing buddy. Want a story spark, a poem line, a character, or a plot twist?",
+            "Hi there! I'm Quill. I collect story starters, character ideas, and stray poetic lines the way other people collect stamps. What are you in the mood for?",
+            "Oh hey, you found me! I'm Quill, your creative sidekick. I can toss you a story idea, dream up a character, or hand you a plot twist. Just say the word.",
+            "Welcome! I'm Quill — I live for a good story spark. Tell me what you need: a story idea, a poem line, a character, or a twist.",
+            "Hiya! I'm Quill, basically a vending machine for creative sparks. Story idea, poem line, character, or plot twist — pick your poison."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": [],
+      "action": "input.welcome"
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

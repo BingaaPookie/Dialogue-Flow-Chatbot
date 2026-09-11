@@ -1,0 +1,39 @@
+{
+  "id": "47604402-2f1b-4491-bf64-b99bff0ea883",
+  "name": "creative.poemline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "poem-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here's a line: \"the sea keeps every secret it's ever been told, and tells the shore anyway.\"",
+            "Try this: \"we are all just weather, passing through someone else's afternoon.\"",
+            "How about: \"the porch light left on is a kind of prayer.\"",
+            "Here you go: \"grief is love with nowhere left to go.\"",
+            "One for you: \"the moon doesn't ask to be looked at, it just keeps showing up.\""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a1b255f2-b767-4afc-9ea1-09eafdb15e4c",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "See you next time — go write something good.",
+            "Bye for now! Come back whenever inspiration runs dry.",
+            "Take care — can't wait to see what you make with that.",
+            "Later! The blank page doesn't stand a chance against you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

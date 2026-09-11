@@ -1,0 +1,34 @@
+{
+  "id": "dcb07f9d-3d94-4685-8898-e8f825308b28",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hmm, that one slipped past me. Try asking for a story idea, a poem line, a character, or a plot twist.",
+            "I didn't quite catch that — I'm better with things like \"give me a story idea\" or \"I need a character.\" Want to try again?",
+            "Sorry, lost me there. I'm good at story starters, poem lines, characters, and plot twists — ask me for one of those?",
+            "That one went over my head. Try something like \"poem line\" or \"give me a plot twist.\"",
+            "Not sure I got that. Want a story idea, a character, a poem line, or a twist? Just ask."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": [],
+      "action": "input.unknown"
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

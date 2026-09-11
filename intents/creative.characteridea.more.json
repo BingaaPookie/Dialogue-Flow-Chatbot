@@ -1,0 +1,40 @@
+{
+  "id": "1c9f42ef-2410-4b56-ae94-c4ea4c98c177",
+  "name": "creative.characteridea.more",
+  "auto": true,
+  "contexts": [
+    "character-mode"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "character-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Another: a detective who solves every case but can never remember solving it — like sleepwalking through his own genius.",
+            "Try this: a witch who lost her magic and now just gives really, really good advice.",
+            "Here: a man who can hear what people are about to say, one second before they say it, and it's ruining his marriage.",
+            "One more: a retired superhero working as a substitute teacher, still flinching at every fire drill."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

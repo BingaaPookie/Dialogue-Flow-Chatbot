@@ -1,0 +1,72 @@
+[
+  {
+    "value": "happy",
+    "synonyms": [
+      "happy",
+      "joyful",
+      "upbeat"
+    ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "down",
+      "blue"
+    ]
+  },
+  {
+    "value": "nostalgic",
+    "synonyms": [
+      "nostalgic",
+      "wistful",
+      "sentimental"
+    ]
+  },
+  {
+    "value": "curious",
+    "synonyms": [
+      "curious",
+      "intrigued"
+    ]
+  },
+  {
+    "value": "adventurous",
+    "synonyms": [
+      "adventurous",
+      "daring",
+      "bold"
+    ]
+  },
+  {
+    "value": "cozy",
+    "synonyms": [
+      "cozy",
+      "comfy",
+      "snug"
+    ]
+  },
+  {
+    "value": "mysterious",
+    "synonyms": [
+      "mysterious",
+      "eerie",
+      "cryptic"
+    ]
+  },
+  {
+    "value": "hopeful",
+    "synonyms": [
+      "hopeful",
+      "optimistic"
+    ]
+  },
+  {
+    "value": "anxious",
+    "synonyms": [
+      "anxious",
+      "nervous",
+      "uneasy"
+    ]
+  }
+]

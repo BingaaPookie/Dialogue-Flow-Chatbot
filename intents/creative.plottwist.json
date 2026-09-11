@@ -1,0 +1,39 @@
+{
+  "id": "0bc88ea3-6197-4a92-ad29-618768a60649",
+  "name": "creative.plottwist",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "twist-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here's one: the narrator has been the villain the whole time — they just didn't know it.",
+            "Try this: the \"ghost\" haunting the house is actually the future version of someone still living there.",
+            "How about: the map everyone's been following was never real — someone drew it to lead them away from the truth.",
+            "Here you go: the mentor figure has been dead the entire story, and only the protagonist could see them.",
+            "One for you: the disaster wasn't an accident — the main character caused it, and is only now realizing it."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

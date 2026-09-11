@@ -1,0 +1,39 @@
+{
+  "id": "3136f340-8a97-4a8f-8301-b721bb616c13",
+  "name": "creative.characteridea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "character-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here's one: a retired assassin who now runs a flower shop and refuses to sell anything that could be used as a weapon.",
+            "Try this: a ghost who doesn't know she's dead yet, working as a barista, wondering why nobody tips her.",
+            "How about: an eleven-year-old who's secretly the best forger in the city, doing it to pay her mom's medical bills.",
+            "Here you go: a dragon who gave up hoarding gold for hoarding library books, and is extremely overdue.",
+            "One for you: a lighthouse keeper who talks to the ships that never answer back."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

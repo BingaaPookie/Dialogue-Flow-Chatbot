@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13f6e85b-833d-4337-b67d-2bb8fded428f",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9e3d005-a1ae-4c1d-9959-c6a64366809b",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e481aa6e-b45c-4564-b192-0b9ebb69d844",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04c44086-03ac-4284-82fe-95488dcda13e",
+    "data": [
+      {
+        "text": "that's all for now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1405961a-12c5-4d7c-8323-5c13419d38c6",
+    "data": [
+      {
+        "text": "I'm done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12960357-21e0-41a7-b3f8-6ee04cfed36d",
+    "data": [
+      {
+        "text": "gotta go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

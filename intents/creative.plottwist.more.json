@@ -1,0 +1,40 @@
+{
+  "id": "83ab7f44-88af-47ef-9662-c9f8fe285525",
+  "name": "creative.plottwist.more",
+  "auto": true,
+  "contexts": [
+    "twist-mode"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "twist-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Another: the letter that started everything was never sent — the character wrote it to themselves and forgot.",
+            "Try this: the \"enemy\" has been trying to save them the whole time, just badly.",
+            "Here: everyone in the town is in on the secret except the one person it's about.",
+            "One more: the whole story has been a memory, and the person remembering it is already gone."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

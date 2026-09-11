@@ -1,0 +1,134 @@
+[
+  {
+    "id": "85915ef4-e3e2-42ce-96c5-41c0daa72be8",
+    "data": [
+      {
+        "text": "I'm feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "nostalgic",
+        "userDefined": true,
+        "alias": "mood",
+        "meta": "@mood"
+      },
+      {
+        "text": ", give me something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5694385d-5a30-445d-b293-cb54ee9cd08a",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "curious",
+        "userDefined": true,
+        "alias": "mood",
+        "meta": "@mood"
+      },
+      {
+        "text": ", inspire me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4ad0d9b-5eef-4244-943b-2cbe6b70b34f",
+    "data": [
+      {
+        "text": "give me something for a ",
+        "userDefined": false
+      },
+      {
+        "text": "cozy",
+        "userDefined": true,
+        "alias": "mood",
+        "meta": "@mood"
+      },
+      {
+        "text": " mood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e213c4b-0fda-4828-b2eb-1c79d5cbe53c",
+    "data": [
+      {
+        "text": "I'm in a ",
+        "userDefined": false
+      },
+      {
+        "text": "mysterious",
+        "userDefined": true,
+        "alias": "mood",
+        "meta": "@mood"
+      },
+      {
+        "text": " mood, help me write",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "969a2f58-37c5-4172-abdf-3dc6a8467215",
+    "data": [
+      {
+        "text": "feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "hopeful",
+        "userDefined": true,
+        "alias": "mood",
+        "meta": "@mood"
+      },
+      {
+        "text": " today, give me a prompt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92db7954-9cf9-4032-ab52-e32067aa99d4",
+    "data": [
+      {
+        "text": "I'm feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "adventurous",
+        "userDefined": true,
+        "alias": "mood",
+        "meta": "@mood"
+      },
+      {
+        "text": ", give me a story idea for that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "d3fe3dda-1bcd-4f08-87ae-dc9ebd609b40",
+  "name": "smalltalk.howareyou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I'm doing great, thanks for asking — my imagination's fully caffeinated today. How about you?",
+            "Can't complain, I run purely on story ideas and good vibes. How are you doing?",
+            "I'm good! A few too many plot twists rattling around in my head, but that's normal for me. What about you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

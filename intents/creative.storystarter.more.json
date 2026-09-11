@@ -1,0 +1,41 @@
+{
+  "id": "17fcd83f-238b-4317-8e60-afe99edc0fa3",
+  "name": "creative.storystarter.more",
+  "auto": true,
+  "contexts": [
+    "story-mode"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "story-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure, here's another: a retired supervillain now runs a daycare, and the kids have started asking uncomfortable questions.",
+            "Got one: a musician discovers that every song they write comes true, exactly as sung, within a week.",
+            "Here: a town has one rule — nobody leaves during a red moon. Tonight is a red moon, and someone's missing.",
+            "Try this: an AI customer service bot starts giving people advice that's suspiciously, unsettlingly good.",
+            "One more: a woman finds her own handwriting on a note she never wrote, warning her about tomorrow."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

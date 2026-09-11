@@ -1,0 +1,31 @@
+{
+  "id": "d276fd03-0f97-4dea-981d-070a96fc909e",
+  "name": "smalltalk.greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hey again! What creative spark do you need — a story, a character, a poem line, or a twist?",
+            "Hello! Ready when you are — story, character, poem, or twist?",
+            "Hey! What'll it be today?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

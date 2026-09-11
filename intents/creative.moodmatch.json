@@ -1,0 +1,40 @@
+{
+  "id": "39eea553-8d23-4400-b290-4787298b143f",
+  "name": "creative.moodmatch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "714845b1-1343-4ca9-bc0b-aff97c5e15cb",
+          "required": false,
+          "dataType": "@mood",
+          "name": "mood",
+          "value": "$mood",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "$mood, got it. Here's something for that: a stranger says something in passing that you can't stop thinking about for the rest of the day.",
+            "Writing from a $mood place — nice. Try this: someone finds a photo of themselves they don't remember being taken.",
+            "$mood works. Here: a door that's always been locked is suddenly, quietly, open."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

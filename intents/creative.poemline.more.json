@@ -1,0 +1,40 @@
+{
+  "id": "af274903-f10e-4b2e-bdb1-35af7ad1ab4e",
+  "name": "creative.poemline.more",
+  "auto": true,
+  "contexts": [
+    "poem-mode"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "poem-mode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Another: \"some houses remember you long after you've forgotten them.\"",
+            "Here: \"a stranger's kindness can outlive the stranger.\"",
+            "Try this: \"the clock doesn't move, we just keep leaving.\"",
+            "One more: \"every goodbye rehearses a bigger one.\""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

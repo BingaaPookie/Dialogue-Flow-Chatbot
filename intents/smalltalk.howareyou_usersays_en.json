@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1f9cee25-7d39-457a-9a1d-32473968cc98",
+    "data": [
+      {
+        "text": "how are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb784673-4add-4a8c-92e0-d0a2605d867e",
+    "data": [
+      {
+        "text": "how's it going",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3034ec61-8c52-46f5-b763-d94d4e81674c",
+    "data": [
+      {
+        "text": "how are you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47062e1d-33d5-41b8-a093-70bcb6673053",
+    "data": [
+      {
+        "text": "you good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "038c3bc8-db9d-451f-8d5a-fe21b85a2594",
+    "data": [
+      {
+        "text": "how have you been",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

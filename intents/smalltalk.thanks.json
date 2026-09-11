@@ -1,0 +1,32 @@
+{
+  "id": "19701416-0107-4cea-990c-b0a2984df063",
+  "name": "smalltalk.thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Anytime! That's literally what I'm here for.",
+            "You're welcome — go make something great with it.",
+            "Happy to help. Come back whenever the blank page strikes again.",
+            "No problem at all — good luck with the writing!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
